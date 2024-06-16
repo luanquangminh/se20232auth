@@ -1,0 +1,37 @@
+name: task_lqm_app_chuan
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  ionicons: 0.2.2
+  icon: ^2.2.1
+  firebase_auth: ^5.1.0
+  firebase_core: 3.1.0
+  google_sign_in: 6.2.1
+  firebase_auth_web: 5.12.2
+  firebase_core_web: 2.17.2
+  cloud_firestore: 5.0.1
+  date_time_picker: 2.1.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/images/
+    - assets/icons/
+  uses-material-design: true
+
+flutter_icons: 
+  android: true
+  ios: true
+
