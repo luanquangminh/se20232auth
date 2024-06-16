@@ -1,0 +1,12 @@
+2024/06/13-17:57:07.626 6390 Creating DB C:\Users\luanm\AppData\Local\Temp\flutter_tools.5159a36f\flutter_tools_chrome_device.de3c35ae\Default\IndexedDB\http_localhost_61712.indexeddb.leveldb since it was missing.
+2024/06/13-17:57:07.638 6390 Reusing MANIFEST C:\Users\luanm\AppData\Local\Temp\flutter_tools.5159a36f\flutter_tools_chrome_device.de3c35ae\Default\IndexedDB\http_localhost_61712.indexeddb.leveldb/MANIFEST-000001
+2024/06/13-17:57:07.658 53cc Level-0 table #5: started
+2024/06/13-17:57:07.662 53cc Level-0 table #5: 744 bytes OK
+2024/06/13-17:57:07.665 53cc Delete type=0 #3
+2024/06/13-17:57:07.666 53cc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/13-17:57:14.199 5220 Level-0 table #7: started
+2024/06/13-17:57:14.203 5220 Level-0 table #7: 4155 bytes OK
+2024/06/13-17:57:14.206 5220 Delete type=0 #4
+2024/06/13-17:57:14.207 53cc Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/13-17:59:36.674 6390 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/13-17:59:39.541 5220 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
