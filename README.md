@@ -20,5 +20,4 @@
     flutter run
 
 
-## Chạy ứng dụng lưu ý, nếu không có Mobile device simulator, chạy trên localhost và kéo nhỏ màn hình lại
 
